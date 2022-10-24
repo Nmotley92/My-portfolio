@@ -51,6 +51,7 @@ main p{
     align-items: center;
     margin: var(--em);
     padding: var(--em);
+    color: whitesmoke;
 
 }
 /* About me section */
@@ -87,7 +88,8 @@ main p{
 /* makes the first image bigger */
 .main-img{
     width:100%;
-    padding:1em;
+    padding: 1em;
+    
 }
 /*sets all other image types */
 .other-img{
