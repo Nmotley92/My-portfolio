@@ -35,17 +35,14 @@ a{
     color:white;
 }
 
+/* changed the font sizes */
 h2{
     font-size: 3em;
 }
 main p{
     font-size: 1.5em;
 }
-
-.center-txt{
-    
-   align-items: center;
-}
+/* does the layout of the contact section */
 .contact{ 
     display: flex;
     flex-direction: column;
@@ -56,6 +53,7 @@ main p{
     padding: var(--em);
 
 }
+/* About me section */
  .about {
     display: flex;
     flex-direction: column;
@@ -67,6 +65,7 @@ main p{
  
 
  }
+ /* My work section */
 .work {
     display: flex;
     flex-direction: column;
@@ -77,26 +76,29 @@ main p{
     
     
 }
-
+/* wraps my work section */
 .work-img{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    
 
 
 }
+/* makes the first image bigger */
 .main-img{
     width:100%;
     padding:1em;
 }
+/*sets all other image types */
 .other-img{
     width: 50%;
     padding: 1em;
 }
+/* makes my porfile picture stay in the left hand corner */
 .img{
     position:absolute;
 }
-
+/* changes font size anything less 768px */
   
 @media screen and (max-width: 768px){
     header{
@@ -112,16 +114,6 @@ main p{
         position: relative;
     }
 }
-/* @media screen and (max-width: 576px) { 
-    header{
-        font-size:1em;
-    }
-    h2{
-        font-size: 1em;
-    }
-    main p{
-        font-size: 1em;
-    }
-}
+
     
   
