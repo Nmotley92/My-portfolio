@@ -17,7 +17,8 @@ I will be my profile page to show off my projects.
 
 ## Screenshots
 ![Screenshot](./assets/imgs/Screenshot%202022-10-24%20153951.png)
-![Screenshot](./assets/imgs/Screenshot%202022-10-24%20162338.png)
+<img width="929" alt="Screenshot 2022-11-30 195247" src="https://user-images.githubusercontent.com/114119193/204947070-26894a86-a72b-42bd-b715-e42a586da420.png">
+
 
 ## Acknowledgements
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
